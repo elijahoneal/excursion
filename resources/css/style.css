@@ -10,6 +10,9 @@ a {
     font-size: 16px;
 }
 
+img {
+    align-content: center;
+}
 header h2 {
     font-size:50px;
     font-weight:normal;
@@ -23,6 +26,10 @@ h3 {
 p {
     font-size: 21px;
     color:gray;
+}
+
+.mobile {
+    margin-top: 20px;
 }
 
 footer {
